@@ -1,6 +1,7 @@
 # Google-Fiber-Project
 Google Fiber: What happens after the first call?
 This project recounts the behavior of customers on their first call and after it.
+[Link to the dashboard on public.tableau]([https://www.google.com](https://public.tableau.com/views/GoogleFiberCase/WHY_1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link))
 
 ## Problem and context:
 Google Fiber is Google's technical service, a call center. Where we want to know the behavior of the customers who call, to know which are the most recurring problems and whether after the first call these problems decrease or not. With the purpose of improving its effectiveness.
