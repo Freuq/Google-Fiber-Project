@@ -28,7 +28,7 @@ For when they showed up on what day of the week, clients generally call, divided
 For how many call, the number of calls is presented for the different "contacts_n" and for months. Where in general the calls decrease as the days go by, the first call being the day in which they call the most with a big difference.
 
 ### 2) Why are they calling?
-This dashboard presents the distribution of problems for each market by month. In two histograms, where one is given by the first call (contacts_n) and the other by one day after the first call (contacts_n_1), which is where the change was observed the most.  
+This dashboard presents the distribution of problems for each market by month. In two bar graphs, where one is given by the first call (contacts_n) and the other by one day after the first call (contacts_n_1), which is where the change was observed the most.  
 Here we observe that market_1 and market_2 behave in a similar way, while market_3 is quite different. Where for market_1 and 2 the problems of type_2 and type_5 are the most common and after a day the type_5 increases by a certain amount (more for market_1), on the other hand for market_3 the most common problem by far is type_5 followed by type_2 but with a greater difference, and after one day the % of problems for type_5 remains the same and that of type_2 decreases, which causes an increase in type_1
 
 ### 3) All data
